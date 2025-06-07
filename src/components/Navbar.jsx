@@ -4,7 +4,7 @@ import whiteBgColor from '../assets/whiteBgColor.svg';
 function Navbar() {
   return (
     <header className="navbar">
-    <img src={whiteBgColor} alt="SkillBarter" className="navbar-logo" />
+    <img src={whiteBgColor} alt="Skill-Khana" className="navbar-logo" />
       <nav className="navbar-links">
         <Link to="/">Dashboard</Link>
         <Link to="/marketplace">Marketplace</Link>
